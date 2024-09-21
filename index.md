@@ -27,3 +27,9 @@ myVariable = [a, b, c]
 myVariable
 |> enum
 ```
+
+This is a to-do:
+- [ ] Headers
+- [ ] Picture
+- [ ] Code block
+- [ ] To-do list
